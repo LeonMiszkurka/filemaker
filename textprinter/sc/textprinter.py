@@ -1,5 +1,5 @@
 # Using open() function
-file_path = "input_to_file.txt"
+file_path = "python-text.txt"
 
 text_for_file = input("Enter the content of the file:")
 
